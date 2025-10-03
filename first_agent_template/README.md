@@ -16,3 +16,5 @@ tags:
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+To run the app locally, check out the run spaces documentation where you can run it locally or wit Docker at https://huggingface.co/docs/hub/spaces-run-with-docker
